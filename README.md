@@ -8,7 +8,11 @@ A collection of awesome things related to Stencil
   - [Official resources](#official-resources)
   - [Tutorials](#tutorials)
   - [Scaffolding](#scaffolding)
+    - [Official](#official)
+    - [Misc.](#misc)
   - [Components](#components)
+  - [Code edtiors](#code-editors)
+    - [Visual Studio Code](#visual-studio-code)
 
 ## Resources
 
@@ -42,3 +46,9 @@ A collection of awesome things related to Stencil
 - [st-img](https://github.com/jgw96/st-img) - Web Component that lazy load images using the Intersection Observer API
 - [stencil-loading-spinner](https://github.com/seanwuapps/stencil-loading-spinner) - Loading spinner component
 - [stencil-payment](https://github.com/Fdom92/stencil-payment) - Web component built using Payment request API
+
+### Code editors
+
+#### Visual Studio Code
+
+- [Stencil Snippets](https://github.com/Fdom92/stencil-snippets) - Adds useful snippets on stencil tsx files
