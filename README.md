@@ -7,8 +7,8 @@ A collection of awesome things related to Stencil
 - [Resources](#resources)
   - [Official resources](#official-resources)
   - [Tutorials](#tutorials)
-  - [Examples](#examples)
-- [Components](#components)
+  - [Scaffolding](#scaffolding)
+  - [Components](#components)
 
 ## Resources
 
@@ -19,14 +19,25 @@ A collection of awesome things related to Stencil
 - [GitHub repository](https://github.com/ionic-team/stencil)
 - [GitHub releases](https://github.com/ionic-team/stencil/releases)
 
-### Examples
+### Tutorials
 
-- [Official Stencil Starter App](https://github.com/ionic-team/stencil-starter)
-- [Official Stencil Starter App (SSR)](https://github.com/ionic-team/stencil-starter-ssr)
-- [Official Stencil Component Starter](https://github.com/ionic-team/stencil-component-starter)
-- [Stencil boilerplate (SSR)](https://github.com/mitchellsimoens/stencil-boilerplate)
+- [Getting Started With Stencil](https://alligator.io/stencil/getting-started/)
+- [Create your first Web Component with Stencil JS](https://coryrylan.com/blog/create-your-first-web-component-with-stencil-js)
 
-## Components
+### Scaffolding
+
+#### Official
+
+- [stencil-starter](https://github.com/ionic-team/stencil-starter)
+- [stencil-starter-ssr](https://github.com/ionic-team/stencil-starter-ssr)
+- [stencil-component-starter](https://github.com/ionic-team/stencil-component-starter)
+
+#### Misc.
+
+- [stencil-boilerplate (ssr)](https://github.com/mitchellsimoens/stencil-boilerplate)
+- [stencil-mobx](https://github.com/aaronksaunders/stencil-mobx)
+
+### Components
 
 - [st-img](https://github.com/jgw96/st-img)
 - [stencil-loading-spinner](https://github.com/seanwuapps/stencil-loading-spinner)
