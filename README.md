@@ -23,6 +23,7 @@ A collection of awesome things related to Stencil
 
 - [Official Stencil Starter App](https://github.com/ionic-team/stencil-starter)
 - [Official Stencil Starter App (SSR)](https://github.com/ionic-team/stencil-starter-ssr)
+- [Official Stencil Component Starter](https://github.com/ionic-team/stencil-component-starter)
 - [Stencil boilerplate (SSR)](https://github.com/mitchellsimoens/stencil-boilerplate)
 
 ## Components
