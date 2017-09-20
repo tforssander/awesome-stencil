@@ -28,17 +28,17 @@ A collection of awesome things related to Stencil
 
 #### Official
 
-- [stencil-starter](https://github.com/ionic-team/stencil-starter)
-- [stencil-starter-ssr](https://github.com/ionic-team/stencil-starter-ssr)
-- [stencil-component-starter](https://github.com/ionic-team/stencil-component-starter)
+- [Stencil Starter App](https://github.com/ionic-team/stencil-starter) - Official, minimal starter project
+- [Stencil Starter App with SSR](https://github.com/ionic-team/stencil-starter-ssr) - Official starter project with server-side rendering
+- [Stencil Component Starter](https://github.com/ionic-team/stencil-component-starter) - Minimal starter project for building shareable web components
 
 #### Misc.
 
-- [stencil-boilerplate (ssr)](https://github.com/mitchellsimoens/stencil-boilerplate)
-- [stencil-mobx](https://github.com/aaronksaunders/stencil-mobx)
+- [Stencil Starter App (SSR)](https://github.com/mitchellsimoens/stencil-boilerplate) - Boilerplate for Stencil with server-side rendering
+- [Stencil Starter App (MobX)](https://github.com/aaronksaunders/stencil-mobx) - Starter project app using MobX
 
 ### Components
 
-- [st-img](https://github.com/jgw96/st-img)
-- [stencil-loading-spinner](https://github.com/seanwuapps/stencil-loading-spinner)
-- [stencil-payment](https://github.com/Fdom92/stencil-payment)
+- [st-img](https://github.com/jgw96/st-img) - Web Component that lazy load images using the Intersection Observer API
+- [stencil-loading-spinner](https://github.com/seanwuapps/stencil-loading-spinner) - Loading spinner component
+- [stencil-payment](https://github.com/Fdom92/stencil-payment) - Web component built using Payment request API
