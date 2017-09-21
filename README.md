@@ -27,6 +27,7 @@ A collection of awesome things related to Stencil
 
 - [Getting Started With Stencil](https://alligator.io/stencil/getting-started/)
 - [Create your first Web Component with Stencil JS](https://coryrylan.com/blog/create-your-first-web-component-with-stencil-js)
+- [Getting to Know Stencil Decorators](https://medium.com/@gilfink/getting-to-know-stencil-decorators-350c13ce6d38)
 
 ### Scaffolding
 
