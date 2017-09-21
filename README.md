@@ -29,6 +29,7 @@ A collection of awesome things related to Stencil
 - [Create your first Web Component with Stencil JS](https://coryrylan.com/blog/create-your-first-web-component-with-stencil-js)
 - [Getting to Know Stencil Decorators](https://medium.com/@gilfink/getting-to-know-stencil-decorators-350c13ce6d38)
 - [Getting Started with Stencil](https://medium.com/@gilfink/getting-started-with-stencil-7e331962a9f1)
+- [Creating a custom dropdown component with Stencil](http://masteringionic.com/blog/2017-09-21-creating-a-custom-dropdown-component-with-stencil/)
 
 ### Scaffolding
 
